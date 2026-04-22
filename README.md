@@ -24,3 +24,19 @@ https://www.youtube.com/watch?v=p34mG5SZIv8<BR>
 
 Set up and manage a Genie space<BR>
 https://learn.microsoft.com/en-gb/azure/databricks/genie/set-up<BR>
+
+Use the Genie API to integrate Genie into your applications<BR>
+https://learn.microsoft.com/en-gb/azure/databricks/genie/conversation-api<BR>
+
+Agents with real-time knowledge from Databricks<BR>
+https://www.youtube.com/watch?v=-_KoJ67hecA<BR>
+
+Sync users and groups from your identity provider using SCIM<BR>
+https://docs.databricks.com/aws/en/admin/users-groups/scim<BR>
+
+Configure SSO in Databricks<BR>
+https://docs.databricks.com/aws/en/security/auth/single-sign-on<BR>
+
+What is Databricks One?<BR>
+https://learn.microsoft.com/en-gb/azure/databricks/workspace/databricks-one<BR>
+
