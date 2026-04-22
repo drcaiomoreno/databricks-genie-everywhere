@@ -7,6 +7,9 @@ The goal of this repo is to provide useful content regarding using Databricks Ge
 Use Genie Everywhere with Enterprise OAuth<BR>
 https://www.databricks.com/blog/access-genie-everywhere<BR>
 
+How to Build Production-Ready Genie Spaces, and Build Trust Along the Way<BR>
+https://www.databricks.com/blog/how-build-production-ready-genie-spaces-and-build-trust-along-way<BR>
+
 Announcing the Azure Databricks native connector in Azure AI Foundry<BR>
 https://www.databricks.com/blog/announcing-azure-databricks-native-connector-azure-ai-foundry<BR>
 
