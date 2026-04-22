@@ -40,3 +40,17 @@ https://docs.databricks.com/aws/en/security/auth/single-sign-on<BR>
 What is Databricks One?<BR>
 https://learn.microsoft.com/en-gb/azure/databricks/workspace/databricks-one<BR>
 
+AgentBricks<BR>
+https://www.databricks.com/product/artificial-intelligence/agent-bricks<BR>
+
+Model Context Protocol (MCP) on Databricks<BR>
+https://learn.microsoft.com/en-gb/azure/databricks/generative-ai/mcp/<BR>
+
+Unity AI Gateway<BR>
+https://learn.microsoft.com/en-gb/azure/databricks/ai-gateway/<BR>
+
+Databricks Foundation Model APIs<BR>
+https://learn.microsoft.com/en-us/azure/databricks/machine-learning/foundation-model-apis/<BR>
+
+Deploy models using Mosaic AI Model Serving<BR>
+https://learn.microsoft.com/en-us/azure/databricks/machine-learning/model-serving/<BR>
