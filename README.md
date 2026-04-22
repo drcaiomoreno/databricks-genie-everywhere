@@ -3,11 +3,24 @@
 The goal of this repo is to provide useful content regarding using Databricks Genie Everywhere.
 
 ### Links
-Announcing the Azure Databricks native connector in Azure AI Foundry
-https://www.databricks.com/blog/announcing-azure-databricks-native-connector-azure-ai-foundry
 
-Announcing the availability of Azure Databricks connector in Azure AI Foundry
-https://techcommunity.microsoft.com/blog/azure-databricks/announcing-the-availability-of-azure-databricks-connector-in-azure-ai-foundry/4415263
+Use Genie Everywhere with Enterprise OAuth<BR>
+https://www.databricks.com/blog/access-genie-everywhere<BR>
 
-Azure Databricks Genie integration with Copilot Studio and Microsoft Foundry is now live!
-https://techcommunity.microsoft.com/blog/azure-databricks/azure-databricks-genie-integration-with-copilot-studio-and-microsoft-foundry-is-/4471087
+Announcing the Azure Databricks native connector in Azure AI Foundry<BR>
+https://www.databricks.com/blog/announcing-azure-databricks-native-connector-azure-ai-foundry<BR>
+
+Announcing the availability of Azure Databricks connector in Azure AI Foundry<BR>
+https://techcommunity.microsoft.com/blog/azure-databricks/announcing-the-availability-of-azure-databricks-connector-in-azure-ai-foundry/4415263<BR>
+
+Azure Databricks Genie integration with Copilot Studio and Microsoft Foundry is now live!<BR>
+https://techcommunity.microsoft.com/blog/azure-databricks/azure-databricks-genie-integration-with-copilot-studio-and-microsoft-foundry-is-/4471087<BR>
+
+Ask Genie Anywhere | Bring AI/BI Genie to Microsoft Teams & M365 Copilot via Copilot Studio<BR>
+https://www.youtube.com/watch?v=2zLzCptIr9A<BR>
+
+Integrating Genie with Microsoft Teams: Seamless Text-to-SQL Access<BR>
+https://www.youtube.com/watch?v=p34mG5SZIv8<BR>
+
+Set up and manage a Genie space<BR>
+https://learn.microsoft.com/en-gb/azure/databricks/genie/set-up<BR>
